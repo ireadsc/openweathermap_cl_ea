@@ -7,6 +7,6 @@ platforms:
   - GCP Functions
 data_sources:
   - name: OpenWeatherMap
-    url: https://openweathermap.org/
+    url: https://openweathermap.org
 parameters:
   - city
